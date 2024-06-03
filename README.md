@@ -30,7 +30,7 @@ This project sets up an ESP32 as a web server to configure its WiFi settings, de
 ### Web View Image
 
 <div align="center">
-  <img src="images/web_view.jpeg" alt="Web View Image" style="max-width: 20%; height: auto;">
+  <img src="images/web_view.png" alt="Web View Image" style="max-width: 70%; height: auto;">
 </div>
 
 ### IP Serial Monitor
